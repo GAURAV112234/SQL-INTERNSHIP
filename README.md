@@ -42,19 +42,18 @@ PHARMA DATASET
 .
 9. Retrieve the top 5 cities with the highest sales.
 10. Calculate the average price of products in each sub-channel.
-11. Join the 'Employees' table with the 'Sales' table to get the name of the Sales Rep and the
-corresponding sales records.
-12. Retrieve all sales made by employees from ' Rendsburg ' in the year 2018.
-13. Calculate the total sales for each product class, for each month, and order the results by
+
+11. Retrieve all sales made by employees from ' Rendsburg ' in the year 2018.
+12. Calculate the total sales for each product class, for each month, and order the results by
 year, month, and product class.
-14. Find the top 3 sales reps with the highest sales in 2019.
-15. Calculate the monthly total sales for each sub-channel, and then calculate the average
+13. Find the top 3 sales reps with the highest sales in 2019.
+14. Calculate the monthly total sales for each sub-channel, and then calculate the average
 monthly sales for each sub-channel over the years.
-16. Create a summary report that includes the total sales, average price, and total quantity
+15. Create a summary report that includes the total sales, average price, and total quantity
 sold for each product class.
-17. Find the top 5 customers with the highest sales for each year.
-18. Calculate the year-over-year growth in sales for each country.
-2 of 2
-19. List the months with the lowest sales for each year
-20. Calculate the total sales for each sub-channel in each country, and then find the country
+16. Find the top 5 customers with the highest sales for each year.
+17. Calculate the year-over-year growth in sales for each country.
+
+18. List the months with the lowest sales for each year
+19. Calculate the total sales for each sub-channel in each country, and then find the country
 with the highest total sales for each sub-channel.
