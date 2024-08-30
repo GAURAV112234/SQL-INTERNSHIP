@@ -118,11 +118,6 @@ group by jobrole,maritalstatus
 having count(*) >1;
 
 
-
-
-
-
-
 -- .17 List the employees with the highest TotalWorkingYears who also have a performacerating of 4
 
 
